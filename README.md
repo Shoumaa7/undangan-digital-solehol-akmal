@@ -58,7 +58,7 @@ cd /path/to/htdocs
 2. **Clone this repository**
 
 ```bash
-git clone https://github.com/n4vrl0s3/Undangan-Digital-PHP.git
+git clone https://github.com/sha-env/Undangan-Digital-PHP.git
 ```
 
 3. **Open your browser and navigate to**
@@ -76,7 +76,7 @@ This project is licensed under the GNU General Public License. See the [LICENSE]
 <hr><br>
 
 <div align="center">
-  <a href="https://www.x.com/n4vrl0s3/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:49108B,20:F3F8FF&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+  <a href="https://www.instagram.com/sha.env/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:000000,20:FFFFFF&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
   </a>
 </div>
