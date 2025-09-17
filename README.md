@@ -1,57 +1,82 @@
-<!--About-->
-<div align=center>
-  <h1>
-    Undangan Digital 
-  </h1>
-  <i>
-    made by Solehul Akmal
-  </i>
-  <br></br>
-    <p align=justify>
-      Aplikasi undangan digital website yang dibuat oleh Solehul Akmal adalah sebuah platform online yang memungkinkan pengguna untuk membuat dan mengirimkan undangan pernikahan secara digital. Dengan menggunakan aplikasi ini, pengguna dapat menghemat biaya cetak undangan fisik, serta lebih efisien dalam mengelola daftar tamu undangan.
-    </p>
-</div>
-<!--About End-->
+# Digital Invitation
 
-<!--Gap-->
-<hr><br><br>
-<!--Gap End-->
+The digital invitation website application created by Solehul Akmal is an online platform that allows users to create and send wedding invitations digitally. By using this application, users can save on the cost of printing physical invitations and manage their guest lists more efficiently.
 
-<!--Purpose-->
-<div align=center>
-  <h2>
-    Purpose of This Repository
-  </h2>
-</div>
-  <p align=justify>
-    Website undangan digital adalah sebuah platform online yang dirancang untuk mempermudah proses pembuatan dan pengiriman undangan secara digital. Dengan antarmuka yang user-friendly, pengguna dapat dengan mudah menyesuaikan undangan mereka sesuai dengan keinginan, termasuk:
-    <ul>
-      <li>
-        <strong>Template yang Dapat Disesuaikan: </strong>Berbagai pilihan template yang bisa disesuaikan untuk berbagai acara dan preferensi.
-      </li>
-      <li>
-        <strong>Teks dan Gambar Kustom: </strong>Kemungkinan untuk menambahkan teks, gambar, dan logo yang bersifat personal pada undangan.
-      </li>
-      <li>
-        <strong>Konfirmasi Kehadiran Digital: </strong>Fitur RSVP (konfirmasi kehadiran) yang memungkinkan tamu untuk mengkonfirmasi kehadiran mereka secara online.
-      </li>
-      <li>
-        <strong>Detail Acara: </strong>Bagian untuk memberikan informasi detail mengenai acara, seperti tanggal, waktu, lokasi, dan dress code.
-      </li>
-      <li>
-        <strong>Berbagi di Media Sosial: </strong>Pilihan untuk dengan mudah membagikan undangan di berbagai platform media sosial.
-      </li>
-    </ul>
-  </p>
-<!--Purpose End-->
+<hr><br>
 
-<!--Gap-->
-<br>
-<!--Gap End-->
+## Purpose of This Repository
 
-<!--Footer-->
-<p align="center">
-  <a href="https://www.instagram.com/guanshiyin_/">
-     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=20:72aae3,100:cadbf5&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+The digital invitation website is an online platform designed to simplify the process of creating and sending invitations digitally. With a user-friendly interface, users can easily customize their invitations according to their preferences, including:
+
+- **Customizable Templates:** Various template options that can be customized for different events and preferences.
+- **Custom Text and Images:** The ability to add personal text, images, and logos to the invitations.
+- **Digital RSVP:** An RSVP feature that allows guests to confirm their attendance online.
+- **Event Details:** A section to provide detailed information about the event, such as date, time, location, and dress code.
+- **Social Media Sharing:** Options to easily share invitations on various social media platforms.
+
+<hr><br>
+
+## Demonstration
+
+You can view a live demo of the application [here](https://undangan-digital-php.guanshiyinnn.com/).
+
+<hr><br>
+
+## Features
+
+- Responsive design for optimal viewing on all devices.
+- Interactive invitation customization.
+- RSVP feature for guest confirmation.
+- Detailed event information section.
+- Easy sharing on social media platforms.
+
+<hr><br>
+
+## Technologies Used
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP, MySQL
+- **Deployment:** Vercel
+
+<hr><br>
+
+## Project Setup
+
+1. **Ensure you have a web server installed (e.g., XAMPP, WAMP, MAMP).**
+2. **Make sure you have Git installed on your machine.**
+
+<hr><br>
+
+## Steps to Run
+
+1. **Navigate to your web server's root directory (e.g., `htdocs` for XAMPP)**
+
+```bash
+cd /path/to/htdocs
+```
+
+2. **Clone this repository**
+
+```bash
+git clone https://github.com/sha-env/Undangan-Digital-PHP.git
+```
+
+3. **Open your browser and navigate to**
+
+```
+http://localhost/Undangan-Digital-PHP
+```
+
+<hr><br>
+
+## License
+
+This project is licensed under the GNU General Public License. See the [LICENSE](LICENSE) file for details.
+
+<hr><br>
+
+<div align="center">
+  <a href="https://www.instagram.com/sha.env/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:000000,20:FFFFFF&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
   </a>
-</p>
+</div>
